@@ -1,4 +1,4 @@
-### Olá, me chamo Fidel Castro Mendes, estou entrando no mundo da programação, tenho como objetivo ingressar na área de desenvolvimento para aprimorar minhas habilidades e conhecimentos, atualmente estou no segundo ano e estou cursando para ser técnico e informática com base em desenvolvimento em sistemas.
+### Olá, me chamo Fidel Castro Mendes, estou entrando no mundo da programação, tenho como objetivo ingressar na área de desenvolvimento para aprimorar minhas habilidades e conhecimentos, concluo em 2023 o curso técnico em informática para a internet pela ETEC BARTOLOMEU BUENO DA SILVA.
 
 #### Aqui estão alguns de meus conhecimentos
 
@@ -6,6 +6,7 @@
 ##### CSS.
 ##### JavaScript.
 ##### PHP.
-##### SQL.
+##### NODEJS.
+##### MYSQL.
 
 #### Eai, vamos começar programar? 😉
